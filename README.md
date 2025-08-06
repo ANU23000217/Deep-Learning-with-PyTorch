@@ -112,22 +112,11 @@ print(result)
 
 ## Output:
 i) Import and set up PyTorch and NumPy.
-<img width="450" height="148" alt="image" src="https://github.com/user-attachments/assets/06d306dd-0679-4d0a-81c6-650a41040161" />
 
 
 ii) Create and manipulate tensors.
-<img width="1180" height="153" alt="image" src="https://github.com/user-attachments/assets/590a9a31-36fc-4f88-b1bd-e0474ed371fd" />
-<img width="835" height="174" alt="image" src="https://github.com/user-attachments/assets/2e4f9ebc-4d98-4f40-b0dc-760f392ea7b6" />
-<img width="419" height="108" alt="image" src="https://github.com/user-attachments/assets/1300e55b-adc4-4434-ad3c-982fb338e243" />
-<img width="360" height="237" alt="image" src="https://github.com/user-attachments/assets/99e5f941-8fb9-4e17-a0be-a46555cebeed" />
-
-<img width="523" height="199" alt="image" src="https://github.com/user-attachments/assets/6d5e32d5-77e7-44e4-9774-e775ea0b4939" />
-<img width="330" height="141" alt="image" src="https://github.com/user-attachments/assets/dccc6038-61bb-41c7-989a-870478d45ce9" />
 
 iii) Perform matrix operations.
-<img width="556" height="126" alt="image" src="https://github.com/user-attachments/assets/88580d3f-b01d-4da2-aa71-6e0dbb7f90f0" />
-
-<img width="577" height="190" alt="image" src="https://github.com/user-attachments/assets/2e74c100-9b00-46b3-aaba-9b19eaaedb81" />
 
 
 ## Result:
